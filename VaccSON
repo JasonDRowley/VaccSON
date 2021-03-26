@@ -1,0 +1,36 @@
+{
+	"patient_info": {
+		"recipient_name": {
+			"first_name": "",
+			"middle_initial": "",
+			"last_name": ""
+		},
+		"recipient_dob": ""
+	},
+	"dose_history": {
+		"dose_1": {
+			"product_name": "",
+			"lot_number": "",
+			"administration_date": "",
+			"administration_site": ""
+		},
+		"dose_2": {
+			"product_name": "",
+			"lot_number": "",
+			"administration_date": "",
+			"administration_site": ""
+		},
+		"other_dose_1": {
+			"product_name": "",
+			"lot_number": "",
+			"administration_date": "",
+			"administration_site": ""
+		},
+		"other_dose_2": {
+			"product_name": "",
+			"lot_number": "",
+			"administration_date": "",
+			"administration_site": ""
+		}
+	}
+}
